@@ -1,6 +1,6 @@
 # Old Bounty Hunting Missions
 
-Feel like the timed bounty missions in [Endless Sky] (https://github.com/endless-sky/endless-sky) are too fast for your taste? Want to stack those jobs, perhaps as a challenge for a ship build or just for that satisfying feeling of credits rolling in after a long patrol? Then this plugin is for you :)
+Feel like the timed bounty missions in [Endless Sky](https://github.com/endless-sky/endless-sky) are too fast for your taste? Want to stack those jobs, perhaps as a challenge for a ship build or just for that satisfying feeling of credits rolling in after a long patrol? Then this plugin is for you :)
 
 ## Technical Stuff
 
