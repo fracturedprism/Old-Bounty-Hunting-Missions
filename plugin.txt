@@ -1,0 +1,2 @@
+name "Old Bounty Hunting Missions"
+about "This plugin replaces timed bounty hunting missions with the old untimed ones."
