@@ -29,7 +29,7 @@ disable mission
 	"Bounty Hunting (Marauder IX)"
 	"Bounty Hunting (Marauder X)"
 
-mission "Bounty Hunting (Very Tiny)"
+mission "Old Bounty Hunting (Very Tiny)"
 	name "Wanted corsair near <system>"
 	description "A small pirate fighter named the <npc> has been attacking merchants near the <system> system. Destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -72,7 +72,7 @@ mission "Bounty Hunting (Very Tiny)"
 		payment 20000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Tiny)"
+mission "Old Bounty Hunting (Tiny)"
 	name "Wanted outlaw near <system>"
 	description "A well armed pirate fighter named the <npc> has been attacking merchants near the <system> system. Destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -125,7 +125,7 @@ mission "Bounty Hunting (Tiny)"
 		payment 40000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Very Small)"
+mission "Old Bounty Hunting (Very Small)"
 	name "Wanted criminal near <system>"
 	description "A light pirate warship named the <npc> has been attacking merchants near the <system> system. Destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -176,7 +176,7 @@ mission "Bounty Hunting (Very Small)"
 		payment 80000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Small)"
+mission "Old Bounty Hunting (Small)"
 	name "Wanted bandit near <system>"
 	description "A low-end pirate warship named the <npc> has been attacking merchants near the <system> system. Destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -219,7 +219,7 @@ mission "Bounty Hunting (Small)"
 		payment 150000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Medium)"
+mission "Old Bounty Hunting (Medium)"
 	name "Wanted pirate near <system>"
 	description "A medium pirate warship named the <npc> has been attacking merchants near the <system> system. Destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -256,7 +256,7 @@ mission "Bounty Hunting (Medium)"
 		payment 200000
 		dialog phrase "generic bounty hunting payment dialog"
 	
-mission "Bounty Hunting (Big)"
+mission "Old Bounty Hunting (Big)"
 	name "Wanted warlord near <system>"
 	description "A heavy warship known as the <npc> has been attacking merchants near the <system> system. Destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -297,7 +297,7 @@ mission "Bounty Hunting (Big)"
 		payment 250000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Small, Hidden)"
+mission "Old Bounty Hunting (Small, Hidden)"
 	name "Disguised bandit near <system>"
 	description "A low-end pirate warship named the <npc> is posing as a merchant ship near the <system> system. Select merchant ships until you find a ship with a matching name, then destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -340,7 +340,7 @@ mission "Bounty Hunting (Small, Hidden)"
 		payment 250000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Medium, Hidden)"
+mission "Old Bounty Hunting (Medium, Hidden)"
 	name "Disguised pirate near <system>"
 	description "A medium pirate warship named the <npc> is posing as a merchant ship near the <system> system. Select merchant ships until you find a ship with a matching name, then destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -377,7 +377,7 @@ mission "Bounty Hunting (Medium, Hidden)"
 		payment 350000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Big, Hidden)"
+mission "Old Bounty Hunting (Big, Hidden)"
 	name "Disguised warlord near <system>"
 	description "A heavy warship known as the <npc> is posing as a merchant ship near the <system> system. Select merchant ships until you find a ship with a matching name, then destroy it and return to <planet> for payment (<payment>)."
 	repeat
@@ -418,7 +418,7 @@ mission "Bounty Hunting (Big, Hidden)"
 		payment 450000
 		dialog phrase "generic bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder I)"
+mission "Old Bounty Hunting (Marauder I)"
 	name "Small Marauders near <system>"
 	description "A fleet of small Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -446,7 +446,7 @@ mission "Bounty Hunting (Marauder I)"
 		payment 300000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder II)"
+mission "Old Bounty Hunting (Marauder II)"
 	name "Small Marauders near <system>"
 	description "A fleet of small Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -474,7 +474,7 @@ mission "Bounty Hunting (Marauder II)"
 		payment 350000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder III)"
+mission "Old Bounty Hunting (Marauder III)"
 	name "Small Marauders near <system>"
 	description "A fleet of small Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -502,7 +502,7 @@ mission "Bounty Hunting (Marauder III)"
 		payment 400000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder IV)"
+mission "Old Bounty Hunting (Marauder IV)"
 	name "Marauders near <system>"
 	description "A fleet of Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -530,7 +530,7 @@ mission "Bounty Hunting (Marauder IV)"
 		payment 425000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder V)"
+mission "Old Bounty Hunting (Marauder V)"
 	name "Marauders near <system>"
 	description "A fleet of Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -559,7 +559,7 @@ mission "Bounty Hunting (Marauder V)"
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
 
-mission "Bounty Hunting (Marauder VI)"
+mission "Old Bounty Hunting (Marauder VI)"
 	name "Marauders near <system>"
 	description "A fleet of Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -587,7 +587,7 @@ mission "Bounty Hunting (Marauder VI)"
 		payment 475000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder VII)"
+mission "Old Bounty Hunting (Marauder VII)"
 	name "Large Marauders near <system>"
 	description "A fleet of large Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -611,7 +611,7 @@ mission "Bounty Hunting (Marauder VII)"
 		payment 500000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder VIII)"
+mission "Old Bounty Hunting (Marauder VIII)"
 	name "Large Marauders near <system>"
 	description "A fleet of large Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -635,7 +635,7 @@ mission "Bounty Hunting (Marauder VIII)"
 		payment 550000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder IX)"
+mission "Old Bounty Hunting (Marauder IX)"
 	name "Large Marauders near <system>"
 	description "A fleet of large Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
@@ -659,7 +659,7 @@ mission "Bounty Hunting (Marauder IX)"
 		payment 600000
 		dialog phrase "generic fleet bounty hunting payment dialog"
 
-mission "Bounty Hunting (Marauder X)"
+mission "Old Bounty Hunting (Marauder X)"
 	name "Large Marauders near <system>"
 	description "A fleet of large Marauder ships, led by a vessel named the <npc>, has been attacking merchants near the <system> system. Destroy the whole fleet and return to <planet> for payment (<payment>)."
 	repeat
