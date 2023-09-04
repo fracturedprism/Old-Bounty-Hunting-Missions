@@ -8,6 +8,27 @@
 # WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
 # PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
+disable mission
+	"Bounty Hunting (Very Tiny)"
+	"Bounty Hunting (Tiny)"
+	"Bounty Hunting (Very Small)"
+	"Bounty Hunting (Small)"
+	"Bounty Hunting (Medium)"
+	"Bounty Hunting (Big)"
+	"Bounty Hunting (Small, Hidden)"
+	"Bounty Hunting (Medium, Hidden)"
+	"Bounty Hunting (Big, Hidden)"
+	"Bounty Hunting (Marauder I)"
+	"Bounty Hunting (Marauder II)"
+	"Bounty Hunting (Marauder III)"
+	"Bounty Hunting (Marauder IV)"
+	"Bounty Hunting (Marauder V)"
+	"Bounty Hunting (Marauder VI)"
+	"Bounty Hunting (Marauder VII)"
+	"Bounty Hunting (Marauder VIII)"
+	"Bounty Hunting (Marauder IX)"
+	"Bounty Hunting (Marauder X)"
+
 mission "Bounty Hunting (Very Tiny)"
 	name "Wanted corsair near <system>"
 	description "A small pirate fighter named the <npc> has been attacking merchants near the <system> system. Destroy it and return to <planet> for payment (<payment>)."
