@@ -6,6 +6,8 @@ Feel like the timed bounty missions in [Endless Sky](https://github.com/endless-
 
 This plugin adds mission definitions that take priority over the one bundled with the game. I copied these from the game files from a continuous build around 09/2022.
 
+As this plugin uses the disable mission syntax, v0.9.15 or greater of Endless Sky is required.
+
 ## Credits
 
 I thank the original authors and developers of Endless Sky for their work on these missions.
